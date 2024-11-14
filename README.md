@@ -23,7 +23,6 @@ This project is a Blood-Bank Management System developed using Python. It uses O
    ```bash
    pip install tkinter pillow
    ```
-3. Run the main application file to launch the GUI.
 
 ## Project Structure
 
