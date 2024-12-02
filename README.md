@@ -14,7 +14,7 @@ This project is a Blood-Bank Management System developed using Python. It uses O
 - **Python**: Core language for the project.
 - **Tkinter**: For creating a GUI.
 - **Database**: Stores tables for donors, recipients, and blood inventory.
-- **Pillow**: For handling and displaying images if required.
+- **Pillow**: For handling and displaying images .
 
 ## Setup
 
