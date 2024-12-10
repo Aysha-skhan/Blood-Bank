@@ -6,6 +6,7 @@ import sqlite3
 import random
 from datetime import datetime,timedelta
 import string
+# all imports used to integrate db,python,sql and libraries 
 def convert_blood_group(blood_group_input):
     blood_group_mapping = {
         'A+': '00A',
