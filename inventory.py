@@ -7,6 +7,7 @@ import sqlite3
 from tkinter import simpledialog
 
 
+# blood inventory making with sample data 
 def map_blood_type(blood_type_code):
     mapping = {'01A': 'A+', '00A': 'A-', '01B': 'B+', '00B': 'B-', '01O': 'O+', '00O': 'O-', '1AB': 'AB+',
                '0AB': 'AB-'}
