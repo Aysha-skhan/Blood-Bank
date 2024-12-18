@@ -29,3 +29,5 @@ This project is a Blood-Bank Management System developed using Python. It uses O
 - **Donor Table**: Contains details about blood donors.
 - **Recipient Table**: Holds information about blood recipients.
 - **Blood Inventory Table**: Tracks blood type stock and availability.
+- All integrated to create a management system.
+- 
