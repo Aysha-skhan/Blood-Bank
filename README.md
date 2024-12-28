@@ -19,10 +19,12 @@ This project is a Blood-Bank Management System developed using Python. It uses O
 ## Setup
 
 1. Clone this repository.
-2. Install required packages:
+2. Install python and related editors.
+3. Install required packages:
    ```bash
    pip install tkinter pillow
    ```
+
 
 ## Project Structure
 
