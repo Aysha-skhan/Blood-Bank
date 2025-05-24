@@ -3,7 +3,7 @@ from tkinter import messagebox, StringVar
 from tkinter.ttk import Combobox
 from PIL import Image, ImageTk, ImageFilter, ImageEnhance
 import sqlite3
-
+# cbg
 def convert_blood_group(blood_group_input):
     blood_group_mapping = {
         'A+': '00A',
